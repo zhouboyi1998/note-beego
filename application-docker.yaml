@@ -1,0 +1,7 @@
+mongodb:
+  host: host.docker.internal
+  port: 27017
+  username: root
+  password: 123456
+  database: note
+  collection: note_command

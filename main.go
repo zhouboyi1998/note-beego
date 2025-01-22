@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
+	// 启动服务
 	beego.Run()
 }
